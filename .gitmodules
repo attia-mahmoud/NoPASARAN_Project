@@ -1,3 +1,6 @@
 [submodule "NoPASARANServer"]
 	path = NoPASARANServer
 	url = https://github.com/attia-mahmoud/NoPASARANServer
+[submodule "NoPASARANscripts"]
+	path = NoPASARANscripts
+	url = https://github.com/attia-mahmoud/NoPASARANscripts
