@@ -7,3 +7,6 @@
 [submodule "STEP-SSH-CA"]
 	path = STEP-SSH-CA
 	url = https://github.com/attia-mahmoud/STEP-SSH-CA
+[submodule "NoPASARAN_SSH_CA"]
+	path = NoPASARAN_SSH_CA
+	url = https://github.com/attia-mahmoud/NoPASARAN_SSH_CA
