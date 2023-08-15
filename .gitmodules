@@ -4,3 +4,6 @@
 [submodule "NoPASARANscripts"]
 	path = NoPASARANscripts
 	url = https://github.com/attia-mahmoud/NoPASARANscripts
+[submodule "STEP-SSH-CA"]
+	path = STEP-SSH-CA
+	url = https://github.com/attia-mahmoud/STEP-SSH-CA
