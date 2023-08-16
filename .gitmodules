@@ -13,3 +13,6 @@
 [submodule "Ansible"]
 	path = Ansible
 	url = https://github.com/attia-mahmoud/Ansible.git
+[submodule "Wireguard"]
+	path = Wireguard
+	url = https://github.com/attia-mahmoud/Wireguard.git
