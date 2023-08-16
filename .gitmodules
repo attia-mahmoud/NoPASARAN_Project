@@ -10,3 +10,6 @@
 [submodule "NoPASARAN_SSH_CA"]
 	path = NoPASARAN_SSH_CA
 	url = https://github.com/attia-mahmoud/NoPASARAN_SSH_CA
+[submodule "Ansible"]
+	path = Ansible
+	url = https://github.com/attia-mahmoud/Ansible.git
